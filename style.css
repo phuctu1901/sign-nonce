@@ -1,0 +1,30 @@
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"] {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ccc;
+  }
+  
+  button[type="submit"] {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  #signature-value {
+    width: 100%;
+  }
+  
